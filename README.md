@@ -93,7 +93,6 @@ Sample UI
 
 File Structure
 
-
 Heart_Disease_Prediction/
 • app.py                     # Streamlit web app
 • grid.pkl                   # Saved trained model
@@ -116,6 +115,7 @@ Emmanuel Olusolade
 ⸻
 
 🏁 Future Improvements
+
  •  Integrate additional health metrics (e.g., blood sugar history).
  •  Add data visualization dashboard.
  •  Deploy on Streamlit Cloud or Hugging Face Spaces.
