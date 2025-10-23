@@ -51,7 +51,7 @@ Dataset UCI Heart Disease Dataset
 
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/HayTyrant/Heart-Disease.git
 cd heart-disease-prediction
 
 2️⃣ Create a virtual environment
