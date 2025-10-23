@@ -83,8 +83,8 @@ streamlit run app.py
 
 Sample UI
 
-![App Screenshot](app_preview1)
-![App Screenshot](app_preview2)
+![App Screenshot](app_preview1.png)
+![App Screenshot](app_preview2.png)
 
 
 
