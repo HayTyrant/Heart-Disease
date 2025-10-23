@@ -1,13 +1,14 @@
 🫀 Heart Disease Prediction Web App
 
-🧠 Overview
+Overview
 
 This project is a Machine Learning-based web application that predicts the likelihood of a patient having heart disease based on their medical data.
 It uses a Logistic Regression model trained on the UCI Heart Disease dataset, deployed with Streamlit for an interactive user interface.
 
 ⸻
 
-🚀 Features
+Features
+
  • 🔍 Predict heart disease risk using 13 medical input features.
  • ⚙️ Machine Learning model: Logistic Regression optimized with GridSearchCV.
  • 📊 Standardized inputs: Uses StandardScaler for data consistency.
@@ -17,7 +18,7 @@ It uses a Logistic Regression model trained on the UCI Heart Disease dataset, de
 
 ⸻
 
-🧩 Tech Stack
+Tech Stack
 
 Component Technology
 Programming Language Python
@@ -30,7 +31,7 @@ Dataset UCI Heart Disease Dataset
 
 ⸻
 
-⚗️ Model Development Workflow
+Model Development Workflow
  1. Data Preprocessing
  • Handled missing values and categorical encoding.
  • Scaled features using StandardScaler.
@@ -71,7 +72,7 @@ streamlit run app.py
 
 ⸻
 
-🧮 How It Works
+How It Works
  1. User enters patient details (age, sex, chest pain type, etc.)
  2. Inputs are encoded and scaled using the saved StandardScaler.
  3. The trained Logistic Regression model predicts the outcome.
@@ -93,17 +94,17 @@ Sample UI
 File Structure
 
 Heart_Disease_Prediction/
-│
-├── app.py                     # Streamlit web app
-├── grid.pkl                   # Saved trained model
-├── scaler.pkl                 # Saved StandardScaler
-├── requirements.txt           # Dependencies
-└── README.md                  # Project documentation
+• app.py                     # Streamlit web app
+• grid.pkl                   # Saved trained model
+• scaler.pkl                 # Saved StandardScaler
+• scaler.pkl                 # Saved StandardScaler
+• requirements.txt           # Dependencies
+• README.md                  # Project documentation
 
 
 ⸻
 
-🧑‍💻 Author
+Author
 
 Emmanuel Olusolade
 📍 Data Science Enthusiast | Machine Learning Explorer
