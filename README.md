@@ -93,6 +93,7 @@ Sample UI
 
 File Structure
 
+
 Heart_Disease_Prediction/
 • app.py                     # Streamlit web app
 • grid.pkl                   # Saved trained model
