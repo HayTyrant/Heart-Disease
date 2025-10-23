@@ -95,10 +95,13 @@ File Structure
 
 Heart_Disease_Prediction/
 • app.py                     # Streamlit web app
+
 • grid.pkl                   # Saved trained model
+
 • scaler.pkl                 # Saved StandardScaler
-• scaler.pkl                 # Saved StandardScaler
+
 • requirements.txt           # Dependencies
+
 • README.md                  # Project documentation
 
 
@@ -108,8 +111,11 @@ Author
 
 Emmanuel Olusolade
 📍 Data Science Enthusiast | Machine Learning Explorer
+
 💼 LinkedIn (https://linkedin.com/EmmanuelOlusolade)
+
 🐦 Twitter (X (https://twitter.com/HayTyrant))
+
 📧 Email (Emmanuelayomikun02@gmail.com)
 
 ⸻
@@ -117,8 +123,11 @@ Emmanuel Olusolade
 🏁 Future Improvements
 
  •  Integrate additional health metrics (e.g., blood sugar history).
+
  •  Add data visualization dashboard.
+
  •  Deploy on Streamlit Cloud or Hugging Face Spaces.
+
  •  Add input validation and improved error handling.
 
 ⸻
