@@ -9,12 +9,17 @@ It uses a Logistic Regression model trained on the UCI Heart Disease dataset, de
 
 Features
 
- • 🔍 Predict heart disease risk using 13 medical input features.
- • ⚙️ Machine Learning model: Logistic Regression optimized with GridSearchCV.
- • 📊 Standardized inputs: Uses StandardScaler for data consistency.
- • 💡 Interactive UI: Built with Streamlit for real-time predictions.
- • 🎨 Modern design: Custom colors, icons, and styled result display.
- • 💬 Confidence score: Displays model’s prediction probability.
+ • Predict heart disease risk using 13 medical input features.
+
+ • Machine Learning model: Logistic Regression optimized with GridSearchCV.
+
+ • Standardized inputs: Uses StandardScaler for data consistency.
+
+ • Interactive UI: Built with Streamlit for real-time predictions.
+
+ • Modern design: Custom colors, icons, and styled result display.
+
+ • Confidence score: Displays model’s prediction probability.
 
 ⸻
 
